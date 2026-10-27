@@ -1,18 +1,32 @@
-# ENEM Quest 2026 🎮
+# ENEM Quest 2026 🎮 — Versão 4.0
 
-Roadmap de estudos gamificado para o ENEM 2026, com missões diárias, checklists, XP, flashcards, revisão espaçada, resumos de literatura e exercícios.
+Roadmap gamificado para o ENEM 2026, com missões diárias de até 2h, checklists, XP, flashcards e revisão espaçada.
 
-## Abrir
+## Novidades da V4
 
-Acesse o GitHub Pages do repositório ou abra `index.html` diretamente no navegador.
+- **Atalhos por tarefa:** abra diretamente as fórmulas pertinentes, o resumo do dia, desafios, enunciados das questões oficiais do Inep, correção e anotações.
+- **Dicas e macetes personalizados:** conceitos essenciais, pegadinhas e microexercício para cada missão.
+- **Botão de retorno:** volte à tarefa de origem depois de consultar outras seções.
+- **Redação guiada:** tour de um texto-modelo autoral explicado em quatro etapas, repertórios aplicados com cuidado, histórico de temas e propostas hipotéticas para treinar.
+- **Laboratório de redação:** rascunhos por tema e checklist, salvos localmente.
 
-## Publicar no GitHub Pages
+## Acessar
 
-1. Crie um repositório **público** chamado `enem-quest-2026`.
-2. Coloque o conteúdo desta pasta na raiz da branch `main` (`index.html`, `README.md` e `.nojekyll`).
-3. Em **Settings → Pages**, selecione **Deploy from a branch**; escolha a branch `main` e a pasta `/ (root)`; salve.
-4. O endereço ficará no formato `https://SEU_USUARIO.github.io/enem-quest-2026/` após o deploy.
+https://lucasteles1231.github.io/enem-quest-2026/
 
-O progresso é salvo localmente no navegador via armazenamento local. Não há backend nem sincronização de dados entre dispositivos. Questões com links externos podem precisar de internet.
+Também pode abrir o `index.html` diretamente no navegador. Os links dos cadernos oficiais exigem internet.
 
-> Projeto independente de preparação para o ENEM; não é um produto oficial do Inep.
+## GitHub Pages
+
+Em **Settings → Pages**: **Deploy from a branch** → `main` → `/ (root)`.
+
+## Privacidade e progresso
+
+Todo o progresso fica no `localStorage` do navegador; não há login nem sincronização entre aparelhos. A chave de armazenamento anterior (`enemQuest2026_v2`) foi mantida para preservar o progresso das versões anteriores. Utilize a função de exportação para fazer backup.
+
+## Referências
+
+- [Inep — Cartilha de redação](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem)
+- [Inep — Provas e gabaritos de 2025](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2025)
+
+Projeto independente, não oficial. Os temas sugeridos para redação são **hipóteses de treino, não previsões**. Repertórios devem ser relacionados de forma pertinente e produtiva ao tema. Os textos autorais apresentados não têm nota oficial atribuída pelo Inep.
