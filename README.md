@@ -30,3 +30,15 @@ Todo o progresso fica no `localStorage` do navegador; não há login nem sincron
 - [Inep — Provas e gabaritos de 2025](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2025)
 
 Projeto independente, não oficial. Os temas sugeridos para redação são **hipóteses de treino, não previsões**. Repertórios devem ser relacionados de forma pertinente e produtiva ao tema. Os textos autorais apresentados não têm nota oficial atribuída pelo Inep.
+
+## Novidades da V5 — Kit de redação
+
+- Estrutura de introdução, desenvolvimento 1, desenvolvimento 2 e conclusão, com exemplos e macetes.
+- Conectivos agrupados por função lógica, não apenas listas para decorar.
+- Frases adaptáveis e copiáveis, com indicações de uso.
+- 12 filmes/documentários, com recortes temáticos e alertas contra uso superficial.
+- 8 repertórios fáceis de contextualizar, incluindo Constituição de 1988, Paulo Freire e Carolina Maria de Jesus.
+- Quatro conclusões comentadas (agente, ação, meio, finalidade, detalhamento).
+- Miniatividade para formular uma tese com duas causas.
+
+Os temas de treino não são previsões para o ENEM 2026. A qualidade do repertório depende de sua pertinência e conexão com a argumentação.
