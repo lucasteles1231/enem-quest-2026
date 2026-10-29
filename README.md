@@ -1,30 +1,34 @@
-# ENEM Quest 2026 — Sprint Visual (V6)
+# ENEM Quest 2026 — Sprint Visual V7
 
-Roadmap independente para o ENEM 2026, voltado a quem estuda cerca de **2 horas por dia** e quer usar a nota para Engenharia Elétrica em turno noturno.
+Plataforma gamificada e independente de preparação para o ENEM 2026, com missões diárias de cerca de 2 horas, flashcards visuais, histórias, questões e exercícios de redação.
 
-## O que mudou
+## Novo na V7: glossário integrado
 
-- **123 flashcards**: pergunta na frente, resposta curta e macete no verso, com desenhos SVG e revisão espaçada; 48 cartões de fórmulas.
-- **6 histórias em 4 cenas**, usando imagens esquemáticas para aprender História, Geografia, Biologia, Física, Inglês e Redação.
-- **17 missões entre 28/10 e 14/11**, com passos cronometrados, checklists e links diretos para revisão, narrativas e questões.
-- **Questões do ENEM 2025** com links para o caderno oficial e correção de uma seleção de 17 questões (sem espanhol).
-- **Redação** com introdução, argumentos, conclusão, conectivos, repertórios e esqueleto de tese.
-- **Ingresso via nota do ENEM**: destaque para Engenharia Elétrica noturna no IFSP campus São Paulo (oferta 2026), além de Sisu, Prouni e ingresso direto. Confirmar sempre edital, turno e oferta de 2027.
+- **120 termos explicados**, especialmente de História (28), além de Geografia, Biologia, Português, Inglês, Sociologia, Redação e Exatas.
+- Toque em uma **palavra destacada na frente de um flashcard** para ver a definição sem revelar a resposta.
+- Cada termo inclui **definição, contexto histórico/científico, exemplo, macete e esquema visual em três passos**.
+- Os cards também sugerem termos relacionados.
+- A nova aba **📚 Glossário** permite pesquisar, filtrar matérias e marcar palavras para revisão.
+- Revisão salva no navegador, usando a mesma chave local da V6 para preservar seu progresso anterior.
 
-## Site
+## Acessar
 
 https://lucasteles1231.github.io/enem-quest-2026/
 
-O site é estático e não utiliza bibliotecas externas. Para ler os PDFs do Inep, precisa de internet.
+Os cadernos oficiais exigem internet. O restante do app funciona localmente no HTML.
 
-## Progresso e privacidade
+## Uso
 
-Seus checklists e respostas ficam salvos **apenas no armazenamento local do navegador**, não em um servidor. Há exportação/importação de backup. A V6 tenta migrar etapas concluídas e revisões de fórmulas da V5 quando a versão antiga está acessível na mesma origem.
+Abra **Baralho visual → História** para começar. Toque em termos como **plantation**, **coronelismo**, **oligarquia**, **Estado Novo**, **AI-5**, **imperialismo** e **Guerra Fria** para ler as explicações. Depois, volte ao card, tente responder de memória e marque se lembrou ou errou.
 
-## Atenção às inscrições
+Também há questões oficiais selecionadas, 6 narrativas em 4 cenas, 17 missões e 48 cards de fórmulas. A língua estrangeira abordada é inglês.
 
-A inscrição para o ENEM não inscreve automaticamente no Sisu, Prouni ou processos próprios que utilizem a nota. O Prouni não é elegível para quem já possui diploma de curso superior. Confira sempre as condições atualizadas, o turno e o deslocamento desde Barueri antes de tomar decisões.
+## Progresso
 
-Fontes: [Inep — provas e gabaritos](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2025), [Portal Sisu](https://acessounico.mec.gov.br/sisu), [Portal Prouni](https://acessounico.mec.gov.br/prouni), [IFSP](https://ocs.spo.ifsp.edu.br/destaques/4463-ifsp-campus-s%C3%A3o-paulo-oferece-1-040-vagas-em-cursos-superiores-pelo-sisu-2026).
+O armazenamento é local, no dispositivo e navegador usados. O app permite exportar e importar backup. Não existe sincronização em nuvem.
 
-Material não oficial; o ENEM não possui lista geral de livros obrigatórios. As ilustrações são esquemas pedagógicos, não reproduções de questões oficiais.
+## Avisos
+
+Projeto não oficial do Inep. A inscrição para o ENEM não equivale à inscrição no Sisu ou outros programas. Confirme oferta de Engenharia Elétrica noturna e processo seletivo de 2027 antes de se candidatar. Para Prouni, a regra geral é não possuir diploma de ensino superior.
+
+[Provas e gabaritos do Inep](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2025)
