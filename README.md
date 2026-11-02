@@ -1,6 +1,15 @@
-# ENEM Quest 2026 — Sprint Visual V9
+# ENEM Quest 2026 — Redação em Foco
 
 Plataforma gamificada e independente de preparação para o ENEM 2026, com missões diárias de cerca de 2 horas, flashcards visuais, histórias, questões e exercícios de redação.
+
+## Atualização: redação em foco (02/11/2026)
+
+- A página inicial agora prioriza a redação até 08/11; demais missões, cards, questões e progresso permanecem disponíveis.
+- Novo treino dialogado: perguntas para introdução, desenvolvimento 1, desenvolvimento 2 e conclusão, com rascunho reunido em quatro parágrafos e armazenamento local.
+- Método: defender tese clara em linguagem impessoal; não é preciso ser neutro nem citar nomes famosos. Repertório pertinente deve ser explicado e conectado ao argumento.
+- Rotina de 2 horas: 15 min tese, 30 min argumentos e repertório, 50 min escrita e 25 min revisão pelas competências do ENEM.
+- Meta orientativa de redação 800+, média ENEM 750, para Engenharia Elétrica noturna no IFSP, LI_EP (escola pública independentemente da renda). Confirmar os critérios do ingresso 2027.
+- Referência de leitura: https://www.calameo.com/read/005876988df9d99f19e51
 
 ## Atualizações de 02/11/2026
 
