@@ -1,8 +1,16 @@
-# ENEM Quest 2026 — Sprint Visual V7
+# ENEM Quest 2026 — Sprint Visual V9
 
 Plataforma gamificada e independente de preparação para o ENEM 2026, com missões diárias de cerca de 2 horas, flashcards visuais, histórias, questões e exercícios de redação.
 
-## Novo na V7: glossário integrado
+## Atualizações de 02/11/2026
+
+- **Redação:** repertórios de *Que Horas Ela Volta?* e Hans Jonas, com exemplos, macetes e quatro novos flashcards.
+- **Questões:** índice completo das 180 questões dos cadernos amarelos da aplicação regular de 2025, com gabarito, busca por número ou intervalo, filtros e identificação das três anuladas. Os enunciados permanecem nos PDFs oficiais; 17 questões têm comentário didático. Os subfiltros de Física, Química e Biologia abrangem as sete questões já classificadas.
+- **Roteiro:** inglês retirado das missões; tempo redistribuído para interpretação de textos, literatura e redação. Os materiais de inglês continuam disponíveis para consulta opcional.
+- **Possíveis temas de redação:** cinco recortes para treino, com contexto, fontes, argumentos, repertórios, proposta de intervenção e botão que preenche o treino de tese. São hipóteses de estudo, sem estimativas de probabilidade.
+- Mantida a chave de armazenamento local para preservar progresso e rascunhos no mesmo navegador e endereço do site.
+
+## Glossário integrado
 
 - **120 termos explicados**, especialmente de História (28), além de Geografia, Biologia, Português, Inglês, Sociologia, Redação e Exatas.
 - Toque em uma **palavra destacada na frente de um flashcard** para ver a definição sem revelar a resposta.
@@ -21,7 +29,7 @@ Os cadernos oficiais exigem internet. O restante do app funciona localmente no H
 
 Abra **Baralho visual → História** para começar. Toque em termos como **plantation**, **coronelismo**, **oligarquia**, **Estado Novo**, **AI-5**, **imperialismo** e **Guerra Fria** para ler as explicações. Depois, volte ao card, tente responder de memória e marque se lembrou ou errou.
 
-Também há questões oficiais selecionadas, 6 narrativas em 4 cenas, 17 missões e 48 cards de fórmulas. A língua estrangeira abordada é inglês.
+Também há um índice das 180 questões oficiais de 2025, 6 narrativas em 4 cenas, 17 missões e 48 cards de fórmulas. O roteiro não inclui tarefas de inglês; no banco de questões, as questões de língua estrangeira correspondem à opção inglês.
 
 ## Progresso
 
